@@ -1,0 +1,7 @@
+asgiref==3.7.1
+backports.zoneinfo==0.2.1;python_version<"3.9"  # Hi ha incompatibilitats amb aquest paquet i python >= 3.9  ---> https://stackoverflow.com/questions/71712258/error-could-not-build-wheels-for-backports-zoneinfo-which-is-required-to-insta
+Django==4.2.1
+sqlparse==0.4.4
+typing_extensions==4.6.1
+tzdata==2023.3
+whitenoise==6.4.0
